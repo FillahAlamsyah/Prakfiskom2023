@@ -9,10 +9,11 @@ List Materi :
 6. Membuat Project Machine Learning
 7. Membuat Project Akhir **(TO DO)**
 
-## Pertemuan 1
-
-## Pertemuan 2
-
-## Pertemuan 3
-
-##
+List Tugas :
+1. Tugas 1 - Membuat Akun Github dan Membuat Repository
+2. Tugas 2 - Membuat Soal Fisika dan Membuat Program Komputasinya
+4. Tugas 3 - Analisis dan Pengolahan Data
+5. Tugas 4 - Analisis Numerik pada Vektor dan Matriks
+6. Project 1 - Membuat Program Metode Numerik
+7. Project 2 - Machine Learning
+8. Project Akhir **(TO DO)**
